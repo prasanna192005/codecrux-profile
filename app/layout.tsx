@@ -18,7 +18,7 @@ export default function RootLayout({
   <div className="text-xl font-bold">CodeCrux</div>
   <ul className="hidden md:flex space-x-6">
     <li><a href="https://codecrux-hero.vercel.app/" className="hover:text-gray-600">Home</a></li>
-    <li><a href="https://coderuxx-pbg3.vercel.app/" className="hover:text-gray-600">Play</a></li>
+    <li><a href="https://coderuxx-vs8d.vercel.app/" className="hover:text-gray-600">Play</a></li>
     <li><a href="http://localhost:3000/AlgorithmVisualizer/AlgorithmVisualizer" className="hover:text-gray-600">Visualize</a></li>
     <li><a href="https://codecrux-community.vercel.app/" className="hover:text-gray-600">Community</a></li>
   </ul>
